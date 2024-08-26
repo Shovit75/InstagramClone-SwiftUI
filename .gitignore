@@ -1,0 +1,35 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcworkspace
+*.xcuserdata
+*.xccheckout
+*.xcscheme
+*.xctest
+*.xcuserdatad/
+*.xcuserstate
+*.xcworkspace/xcshareddata/
+*.xcworkspace/xcuserdata/
+
+# Swift Package Manager
+/.build/
+/Packages/
+
+# CocoaPods
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# CocoaPods
+*.xcworkspace
+*.xcuserstate
+
+# Playground
+timeline.xctimeline
+playground.xcworkspace
+
+# SwiftPM
+.swiftpm/x86_64-apple-macosx/
+.swiftpm/manifest.lock
